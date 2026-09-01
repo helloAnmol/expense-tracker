@@ -1,6 +1,9 @@
-# Expense Tracker
+# Modern Expense Tracker
 
 A lightweight, responsive web application that helps users track their daily income and expenses. The application provides a visual breakdown of spending habits and securely saves data locally in the browser.
+
+## 🚀 Live Demo
+**[Try the Expense Tracker Live!](https://helloanmol.github.io/expense-tracker/)**
 
 ## Features
 
